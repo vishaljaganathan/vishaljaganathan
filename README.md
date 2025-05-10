@@ -30,7 +30,7 @@
   <a href="https://github.com/vishaljaganathan">
     <img src="https://img.shields.io/github/followers/vishaljaganathan?label=Followers&style=for-the-badge&color=00FF00&logo=github" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/vishaljaganathan?label=Stars&style=for-the-badge&color=FF00FF&logo=github" alt="GitHub Stars" />
-    <img src="https://komarev.com/ghpvc/?username=vishaljaganathan&label=Profile+Views&color=FFFF00&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=vishaljaganathan&label=Profile+Views&color=006AFF&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
