@@ -27,12 +27,27 @@
 </p>
 
 <p align="center">
+  <!-- GitHub Readme Stats: Followers and Stars -->
   <a href="https://github.com/vishaljaganathan">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishaljaganathan&show_icons=true&hide=contribs&theme=radical&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/vishaljaganathan?tab=followers">
     <img src="https://img.shields.io/github/followers/vishaljaganathan?label=Followers&style=for-the-badge&color=00FF00&logo=github" alt="GitHub Followers" />
+  </a>
+  <!-- GitHub Stars Badge -->
+  <a href="https://github.com/vishaljaganathan?tab=repositories">
     <img src="https://img.shields.io/github/stars/vishaljaganathan?label=Stars&style=for-the-badge&color=FF00FF&logo=github" alt="GitHub Stars" />
+  </a>
+
+  <a href="https://github.com/vishaljaganathan">
     <img src="https://komarev.com/ghpvc/?username=vishaljaganathan&label=Profile+Views&color=006AFF&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/vishaljaganathan">
