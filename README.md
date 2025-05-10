@@ -1,15 +1,23 @@
-### Hi there 👋, I'm Vishal Jaganathan
+# 🎮 Level Up! Meet Vishal Jaganathan - The Code Wizard 🧙‍♂️  
 
-🚀 I’m a passionate developer from Pondicherry, India.
+**🏡 Hometown:** Pondicherry, India  
+**🎯 Mission:** Conquering bugs & crafting epic Java spells!  
+**🔋 HP:** 100% | **⚡ Mana:** ∞ (Powered by Coffee)  
 
-- 🔭 I’m currently working on Java-based applications  
-- 🌱 I’m learning web development and backend technologies  
-- 👯 I’m looking to collaborate on open-source Java and web projects  
-- 💬 Ask me about Java, HTML, and basic networking  
-- 📫 How to reach me: vishal282003@gmail.com  
-- ⚡ Fun fact: I love solving puzzles and building calculators from scratch!
+---
 
-### 📊 GitHub Stats
+## 🎮 Player Stats  
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljaganathan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljaganathan&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishaljaganathan&show_icons=true&theme=radical)](https://github.com/vishaljaganathan)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljaganathan&layout=compact&theme=radical)](https://github.com/vishaljaganathan)  
+
+---
+
+## 🏆 Current Quests  
+- 🔥 **Burning Project:** Java-based apps  
+- 📚 **Learning:** Web Dev (Backend)  
+- 🤝 **Guild Search:** Open-source collabs!  
+
+---
+
+📧 **Email:** [vishaljaganathan1@gmail.com](mailto:vishaljaganathan1@gmail.com)  
