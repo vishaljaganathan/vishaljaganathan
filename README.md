@@ -6,18 +6,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vishaljaganathan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishaljaganathan&theme=radical" alt="Profile Details" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/vishaljaganathan">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishaljaganathan&show_icons=true&theme=radical&hide_border=true&icon_color=FF00FF&title_color=FF00FF" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljaganathan&layout=compact&theme=radical&hide_border=true&title_color=00FFFF" alt="Top Languages" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/vishaljaganathan">
@@ -25,11 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vishaljaganathan">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishaljaganathan&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/vishaljaganathan">
